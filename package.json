@@ -1,0 +1,16 @@
+{
+  "name": "parsnip",
+  "version": "0.0.1",
+  "description": "A context-free grammar parsing library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Malek Azadegan",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^22.13.9",
+    "tsup": "^8.4.0",
+    "typescript": "^5.8.2"
+  }
+}
