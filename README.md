@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/parsnip_transparent.png" alt="Project Logo" width="200">
+  <img src="https://raw.githubusercontent.com/malekoa/parsnip/refs/heads/main/assets/parsnip_transparent.png" alt="Project Logo" width="128">
 </p>
 
 # Parsnip
