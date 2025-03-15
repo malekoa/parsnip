@@ -1,0 +1,8 @@
+{
+    "entryPoints": [
+        "**/*.ts"
+    ],
+    "excludeExternals": false,
+    "tsconfig": "tsconfig.json",
+    "entryPointStrategy": "expand"
+}
