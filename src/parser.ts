@@ -1,3 +1,4 @@
+export { Rule, ParseTree } from "./types";
 import { Rule, ParseTree } from "./types";
 import { stateToString } from "./parseUtils";
 
