@@ -1,6 +1,7 @@
 export { Rule, ParseTree } from "./types";
+export { toLatexString, treeToString } from "./parseUtils";
 import { Rule, ParseTree } from "./types";
-import { stateToString } from "./parseUtils";
+import { stateToString, toLatexString, treeToString } from "./parseUtils";
 
 /**
  * Parses a sequence of input tokens using a given set of rewrite rules to generate all possible parse trees.
