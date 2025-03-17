@@ -1,6 +1,6 @@
 {
   "name": "@malekoa/parsnip",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "A context-free grammar parsing library.",
   "main": "dist/parser.js",
   "module": "dist/parser.mjs",
